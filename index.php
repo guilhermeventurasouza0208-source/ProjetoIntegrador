@@ -499,7 +499,7 @@ $heroImageExists = file_exists(__DIR__ . '/' . $heroImage);
 
                 <div class="card product-card">
 
-                    <img src="L1_dell-inspiron-16-plus-7640-cn76604sc.webp" alt="Notebook Dell Inspiron 16" class="product-image">
+                    <img src="L1_dell-inspiron-16-plus-7640-cn76604sc_2.webp" alt="Notebook Dell Inspiron 16" class="product-image">
 
                     <div class="product-badge">
                         Dell
@@ -538,7 +538,7 @@ $heroImageExists = file_exists(__DIR__ . '/' . $heroImage);
 
                 <div class="card product-card">
 
-                    <img src="dv3020sff-csy-00030rf-gn-noodd-nomcr.jpg" alt="Dell Vostro Desktop" class="product-image">
+                    <img src="dv3020sff-csy-00030rf-gn-noodd-nomcr_2.avif" alt="Dell Vostro Desktop" class="product-image">
 
                     <div class="product-badge">
                         Dell
@@ -577,7 +577,7 @@ $heroImageExists = file_exists(__DIR__ . '/' . $heroImage);
 
                 <div class="card product-card">
 
-                    <img src="latitude-14-3440-laptop-pdp-module-06.jpg" alt="Notebook Dell Latitude 3440" class="product-image">
+                    <img src="latitude-14-3440-laptop-pdp-module-06_2.avif" alt="Notebook Dell Latitude 3440" class="product-image">
 
                     <div class="product-badge">
                         Dell
