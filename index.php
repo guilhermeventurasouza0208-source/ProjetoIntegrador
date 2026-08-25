@@ -499,7 +499,7 @@ $heroImageExists = file_exists(__DIR__ . '/' . $heroImage);
 
                 <div class="card product-card">
 
-                    <img src="L1_dell-inspiron-16-plus-7640-cn76604sc_2.webp" alt="Notebook Dell Inspiron 16" class="product-image">
+                    <img src="L1_dell-inspiron-16-plus-7640-cn76604sc.webp" alt="Notebook Dell Inspiron 16" class="product-image">
 
                     <div class="product-badge">
                         Dell
